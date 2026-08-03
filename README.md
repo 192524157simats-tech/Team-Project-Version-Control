@@ -1,4 +1,4 @@
-# Team Project Version Control
+# Version Control Laboratory
 
 ## Project Description
 This repository demonstrates Git and GitHub version control workflow.
